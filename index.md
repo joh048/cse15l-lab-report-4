@@ -13,14 +13,14 @@ Keys pressed: The ```ls  <enter>``` command was typed into terminal. Followed by
 ## Step 6:
 <img width="803" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/9d4c9644-aa19-4d1f-953f-2fb0c33b1f59">
 
-Key Pressed: Run ```ls``` command to view current files / directories. Run ```cd la <tab> <enter>``` to change directory into lab7/. Run ```ls``` command to see if test.sh bash script is present in directory. Will need this to run unit tests. Run ```bash t <tab> <enter>``` to run unit tests. Code is failing in ListExamples.java.
+Key Pressed: Run ```ls``` command to view current files / directories. Run ```cd la <tab> <enter>``` to change directory into lab7/. Run ```ls <enter>``` command to see if test.sh bash script is present in directory. Will need this to run unit tests. Run ```bash t <tab> <enter>``` to run unit tests. Code is failing in ListExamples.java.
 
 ## Step 7: 
 <img width="303" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/a5f916e9-67cb-400b-a931-2aa0bc7de2e0">
 <img width="383" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/eb412916-7b8a-418d-85e3-9d6528d719db">
 <img width="374" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/a39d8ec6-cb07-4334-9259-8808fc91e2c2">
 
-Key Pressed: Run ```vim L <tab> <.> <tab> <enter>``` to edit ListExamples.java file. Press ```<left> <i> <2> <esc> <right> <x>``` to make changes from index1 to index2 in order to fix the bug. Press ```<:> <w> <q> <enter>``` to saves changes and quit vim edittor.
+Key Pressed: Run ```vim L <tab> <.> <tab> <enter>``` to edit ListExamples.java file. Press ```<left> <i> <2> <esc> <right> <x>``` to make changes from index1 to index2 in order to fix the failing test. Press ```<:> <w> <q> <enter>``` to saves changes and quit vim edittor.
 
 ## Step 8:
 <img width="362" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/3bd66cb5-233e-4447-8671-b129aeaf0e76">
