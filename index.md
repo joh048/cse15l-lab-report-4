@@ -20,18 +20,18 @@ Key Pressed: Run ```ls``` command to view current files / directories. Run ```cd
 <img width="383" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/eb412916-7b8a-418d-85e3-9d6528d719db">
 <img width="374" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/a39d8ec6-cb07-4334-9259-8808fc91e2c2">
 
-Key Pressed: Run ```vim L <tab> <.> <tab> <enter>``` to edit ListExamples.java file. Press ```<left> <i> <2> <esc> <right> <x> <:> <w> <q> <enter>```. This changes index1 to index2 and saves changes and quits vim edittor.
+Key Pressed: Run ```vim L <tab> <.> <tab> <enter>``` to edit ListExamples.java file. Press ```<left> <i> <2> <esc> <right> <x>``` to make changes from index1 to index2 in order to fix the bug. Press ```<:> <w> <q> <enter>``` to saves changes and quit vim edittor.
 
 ## Step 8:
 <img width="362" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/3bd66cb5-233e-4447-8671-b129aeaf0e76">
 
-Key Pressed: Run "bash t" < tab > < enter > to run unit tests from the test.sh bash script. Code is now fixed!
+Key Pressed: Run ```bash t <tab> <enter>``` to run unit tests from the test.sh bash script. Code is now fixed!
 
 ## Step 9:
 <img width="533" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/249b927d-6fcc-42b7-b3c0-a945d2049bed">
 <img width="589" alt="image" src="https://github.com/joh048/cse15l-lab-report-4/assets/146862219/407429a7-4174-409f-836c-b472a2b43115">
 
-Key Pressed: Enter "git status" < enter > to check which files has been editted. Only ListExamples.java has been updated. Enter "git add L" < tab > < . > < tab > < enter > to add ListExamples.java to be committed. Enter "git status" < enter > to check whether is file has been added. Enter "git commit -m "fixing error" L" < tab > < enter > to commit ListExamples.java. Enter "git push" < enter > to push commits to GitHub.
+Key Pressed: Enter ```git status <enter>``` to check which files has been editted. Only ListExamples.java has been updated. Enter ```git add L <tab> <.> <tab> <enter>``` to add ListExamples.java to be committed. Enter ```git status <enter>``` to check whether is file has been added. Enter ```git commit -m "fixing error" L <tab> <enter>``` to commit ListExamples.java. Enter ```git push <enter>``` to push commits to GitHub.
 
 
 
